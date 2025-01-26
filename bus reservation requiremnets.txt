@@ -1,0 +1,7 @@
+bus reservation requiremnets
+
+1. functional 
+2. non functional 
+3.sustainability
+4.technical requirements
+5.administrative requirements
